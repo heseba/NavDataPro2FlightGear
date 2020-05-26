@@ -13,6 +13,7 @@ __maintainer__ = 'Sebastian Heil <https://github.com/heseba>'
 __status__ = 'Dev'
 
 __project_name__ = 'NavDataPro2FlightGear'
+__project_url__ = 'https://github.com/heseba/NavDataPro2FlightGear'
 __description__ = 'Copies NavDataPro X-Plane 10 Nav Files (Navaids, Fixes, Airways) to FlightGear.'
 
 NDPXPLANE10_NAVAID_DIR = Path('Custom data')

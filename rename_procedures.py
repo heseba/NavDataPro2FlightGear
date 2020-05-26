@@ -12,6 +12,7 @@ __maintainer__ = 'Sebastian Heil <https://github.com/heseba>'
 __status__ = 'Dev'
 
 __project_name__ = 'NavDataPro2FlightGear'
+__project_url__ = 'https://github.com/heseba/NavDataPro2FlightGear'
 __description__ = 'Renames NavDataPro Level-D Navdata Files to work with extract-navdata.py.'
 
 SUBDIRECTORY = 'navdata'

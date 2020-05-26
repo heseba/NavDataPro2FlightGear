@@ -25,6 +25,7 @@ This repository contains instructions and helper scripts that allow NavDataPro s
 15. Run `python3 navaids.py "<XP10_PATH>" "<FG_DATA>"` in the folder cloned from git in step 1. The quotation marks are needed in case your paths contains blanks.
 
 ## See Also
+- [NavDataPro2FlightGear Project on Github](https://github.com/heseba/NavDataPro2FlightGear)
 - [FlightGear Wiki: SIDs and STARs](http://wiki.flightgear.org/Route_manager#SIDs_and_STARs)
 - [FlightGear Wiki: $FG_SCENERY](http://wiki.flightgear.org/$FG_SCENERY)
 - [FlightGear Wiki: $FG_ROOT](http://wiki.flightgear.org/$FG_ROOT)
