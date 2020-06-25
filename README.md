@@ -1,5 +1,5 @@
 # NavDataPro2FlightGear
-This repository contains instructions and helper scripts that allow NavDataPro subscribers to update FlightGear' nav data. This process will update the airport procedures (SIDs and STARs), the Fixes, Navaids and Airways to the latest AIRAC cycle available in your NavDataPro subscription. Please follow the detailed instructions below. 
+This repository contains instructions and helper scripts that allow NavDataPro subscribers to update FlightGear's nav data. This process will update the airport procedures (SIDs and STARs), the Fixes, Navaids and Airways to the latest AIRAC cycle available in your NavDataPro subscription. Please follow the detailed instructions below. 
 
 ## Requirements
 - Python 3.8 or higher
