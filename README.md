@@ -8,7 +8,7 @@ This repository contains instructions and helper scripts that allow NavDataPro s
 - Florent Rougon's [extract-navdata.py](http://frougon.net/python_dumping_ground/short_scripts/extract-navdata.py) for Navigraph
 
 ## Instructions
-1. Clone this repository: `git clone --depth 1 TODO NavDataPro2FlightGear` or download as zip from github.
+1. Clone this repository: `git clone --depth 1 https://github.com/heseba/NavDataPro2FlightGear NavDataPro2FlightGear` or download as zip from github.
 2. Create a folder for the Level-D data, e.g. `leveld`. Copy the absolute path. We will refer to it as `<LD_PATH>` in the following.
 3. Open NavDataPro, select 'All' and scroll down to 'Level-D 767 FSX'.
 4. Set the target path to `<LD_PATH>`.
